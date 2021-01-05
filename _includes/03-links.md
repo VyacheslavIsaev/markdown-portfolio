@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Vyacheslav Isaev Photography](https://vyacheslav.photo)
+[GitHub](http://github.com)<br/>
+[Include of another file](https://github.com/VyacheslavIsaev/markdown-portfolio/blame/add-images-links/index.md#L7-L10)
